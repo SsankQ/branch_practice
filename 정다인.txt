@@ -1,3 +1,4 @@
 branch practice
 
-커밋 1
+commit 1
+commit 2
